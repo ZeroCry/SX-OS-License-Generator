@@ -1,0 +1,12 @@
+D:\Programs\SX OS License Generator\SX OS License Generator\bin\Debug\SX OS License Generator.exe.config
+D:\Programs\SX OS License Generator\SX OS License Generator\bin\Debug\SX OS License Generator.exe
+D:\Programs\SX OS License Generator\SX OS License Generator\bin\Debug\SX OS License Generator.pdb
+D:\Programs\SX OS License Generator\SX OS License Generator\obj\Debug\SX OS License Generator.csprojResolveAssemblyReference.cache
+D:\Programs\SX OS License Generator\SX OS License Generator\obj\Debug\SX_OS_License_Generator.Form1.resources
+D:\Programs\SX OS License Generator\SX OS License Generator\obj\Debug\SX_OS_License_Generator.Properties.Resources.resources
+D:\Programs\SX OS License Generator\SX OS License Generator\obj\Debug\SX OS License Generator.csproj.GenerateResource.cache
+D:\Programs\SX OS License Generator\SX OS License Generator\obj\Debug\SX OS License Generator.csproj.CoreCompileInputs.cache
+D:\Programs\SX OS License Generator\SX OS License Generator\obj\Debug\SX OS License Generator.exe
+D:\Programs\SX OS License Generator\SX OS License Generator\obj\Debug\SX OS License Generator.pdb
+D:\Programs\SX OS License Generator\SX OS License Generator\obj\Debug\SX_OS_License_Generator.browser.resources
+D:\Programs\SX OS License Generator\SX OS License Generator\obj\Debug\SX_OS_License_Generator.info.resources
