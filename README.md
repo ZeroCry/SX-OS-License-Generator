@@ -1,2 +1,2 @@
 # SX-OS-License-Generator
-This software generates SX OS LLICENSE CODES
+This software generates SX OS LICENSE CODES
